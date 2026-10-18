@@ -1,0 +1,11 @@
+{
+  "moved": true,
+  "triggers": 15,
+  "reduced": {
+    "mode": "reduced",
+    "triggers": 0
+  },
+  "dialogFocusReturned": true,
+  "nojsNav": true,
+  "issues": []
+}

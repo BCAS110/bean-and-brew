@@ -1,0 +1,249 @@
+{
+  "status": "PASS",
+  "artifact": "dist/",
+  "target": "https://bcas110.github.io/bean-and-brew/",
+  "files": 48,
+  "totalBytes": 2348282,
+  "manifest": [
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "assets/css/app.css",
+      "bytes": 29205,
+      "sha256": "d7a8edc418647263941d41958e408e3099ffc4b9e376dc0de43a14a2d25db327"
+    },
+    {
+      "path": "assets/css/nojs.css",
+      "bytes": 435,
+      "sha256": "d08e0681ad7e19644dada877f6b1acb4845daf1dcaaf664aaf4fb8cd84635fd5"
+    },
+    {
+      "path": "assets/images/beans-1400.webp",
+      "bytes": 214484,
+      "sha256": "f29ed580a3f3867c50a0cbcee175f590c5b6d066a9a300cafc9fc96e25ab9015"
+    },
+    {
+      "path": "assets/images/beans-480.webp",
+      "bytes": 43200,
+      "sha256": "d4e72df3b2a78b5b4159e9f4279d9066266c453ef80ce7331db4074bea668ae8"
+    },
+    {
+      "path": "assets/images/beans-800.webp",
+      "bytes": 93520,
+      "sha256": "6b3684fc0c0ecdd475cd0c613379772e20cbb9e23711d38d3a433d20ad543e83"
+    },
+    {
+      "path": "assets/images/cafe-1400.webp",
+      "bytes": 180032,
+      "sha256": "51bb0ff66f303627562da63b1710b59d861b78fe13902cbe1b81a60e40e8983e"
+    },
+    {
+      "path": "assets/images/cafe-480.webp",
+      "bytes": 30820,
+      "sha256": "44a7552345a2f5c9cb5c524c8f8c6117d15f6c2c0f7b1b237ca26bd44352dd11"
+    },
+    {
+      "path": "assets/images/cafe-800.webp",
+      "bytes": 72804,
+      "sha256": "43a10056b62bb4405204930cf35e46a619e66e8744f42059c990add93b39cb9d"
+    },
+    {
+      "path": "assets/images/coldbrew-1400.webp",
+      "bytes": 36648,
+      "sha256": "0550bdd9efa9f0d5d541d3d0928fce4f4a9e264e7bdecc0752a905e01dc7835b"
+    },
+    {
+      "path": "assets/images/coldbrew-480.webp",
+      "bytes": 9112,
+      "sha256": "12004da38e754e4e660c1674a76bed7fe46dc33811f0be9f89c70d1162984121"
+    },
+    {
+      "path": "assets/images/coldbrew-800.webp",
+      "bytes": 17836,
+      "sha256": "b8ddb98fc623f9d7afef233b2ca8133283f0b23b32d003922c04cff0449520e2"
+    },
+    {
+      "path": "assets/images/espresso-1400.webp",
+      "bytes": 124530,
+      "sha256": "23422b9503ca0b70963d60babfc115debda6978287c205702facf93374e0e5d0"
+    },
+    {
+      "path": "assets/images/espresso-480.webp",
+      "bytes": 24602,
+      "sha256": "94c9569b6e1e2ec141977eafadaa84c45324d36b186ae2fd08e8a265532627ac"
+    },
+    {
+      "path": "assets/images/espresso-800.webp",
+      "bytes": 52306,
+      "sha256": "3a2ad2eb889d615045e5b2f769b3bbdbd47c872b5982ac97705234a41b9a9497"
+    },
+    {
+      "path": "assets/images/experience-1400.webp",
+      "bytes": 256674,
+      "sha256": "a59f9afceeac4ecaf15641aac6a27a9e4b13f7e5ff6e5cd931e322dbcff0a353"
+    },
+    {
+      "path": "assets/images/experience-480.webp",
+      "bytes": 48004,
+      "sha256": "9e6df326bf264b414c29d4139924d90e2c3e5370b17f0d8465ff78c07c1bcd30"
+    },
+    {
+      "path": "assets/images/experience-800.webp",
+      "bytes": 112628,
+      "sha256": "ad04fe55b9d6e493f0d3bb33e4fc243a2c3264213c1ce20faa2616a46b3ec473"
+    },
+    {
+      "path": "assets/images/favicon.svg",
+      "bytes": 227,
+      "sha256": "ba02e6ce8bb346f11da9050a9527df893ec237149270f38fd774c0af46d5dd77"
+    },
+    {
+      "path": "assets/images/hero-cup-1000.avif",
+      "bytes": 52426,
+      "sha256": "7a9797f000e060cdca562cfe0c81274ed5a9bd018fc3ca218e7720a7f44562f2"
+    },
+    {
+      "path": "assets/images/hero-cup-1000.webp",
+      "bytes": 97872,
+      "sha256": "f1793894aae098306d4dce6a626accbdc5e0e85631441935734b805edbb363a5"
+    },
+    {
+      "path": "assets/images/hero-cup-1500.avif",
+      "bytes": 90233,
+      "sha256": "e24798b3f8501f51c1a63169d7927b5bc9b904d31b5c11e61d23eef0c10ccb8b"
+    },
+    {
+      "path": "assets/images/hero-cup-1500.webp",
+      "bytes": 185248,
+      "sha256": "ebb528daa9380b7926f0fdd9e06752a6ecaec940d0dd6e03329b523db101c9b1"
+    },
+    {
+      "path": "assets/images/hero-cup-640.avif",
+      "bytes": 27873,
+      "sha256": "72efd85d66941f2c54ab720eb12661bdac4698e6339395e3b3cdba0f2a3c3da1"
+    },
+    {
+      "path": "assets/images/hero-cup-640.webp",
+      "bytes": 49674,
+      "sha256": "742c2a89917cdfc8b42604276c8cd753211fe14a6d7d901d2f874c1dc08fdca3"
+    },
+    {
+      "path": "assets/images/hero-cup-800.avif",
+      "bytes": 37916,
+      "sha256": "ef8bd808e2a08d1db15d3a33a71f727eb598862822a9742a3b0cde6ddcf53609"
+    },
+    {
+      "path": "assets/images/hero-cup-800.webp",
+      "bytes": 69342,
+      "sha256": "c394426c560203d4663c705afa993fcbbe5512c1f5e685c79202947fdd01d3a4"
+    },
+    {
+      "path": "assets/images/latte-1400.webp",
+      "bytes": 43496,
+      "sha256": "8a3a6fb81ffaa20e785b61e0c2185a3b666227c006e3ed5cba5b6c04afc91054"
+    },
+    {
+      "path": "assets/images/latte-480.webp",
+      "bytes": 9666,
+      "sha256": "2f402cbf305ad394956bb9dd10674764cffdf9eee835d342b67f3bdc66ad7035"
+    },
+    {
+      "path": "assets/images/latte-800.webp",
+      "bytes": 17920,
+      "sha256": "f56ee341900f7ad63c2cacdfbf5d9f228bdd09bb7028c4070fbdb96dab5dc336"
+    },
+    {
+      "path": "assets/images/matcha-1400.webp",
+      "bytes": 41384,
+      "sha256": "19157912cacce3df39683c5d7435a92a5bf46ff0bfb275d8ff851a9e02af4dad"
+    },
+    {
+      "path": "assets/images/matcha-480.webp",
+      "bytes": 11154,
+      "sha256": "21305c5b52c737f0a2e61d581733a500ccc2f0407626fb15a92faaf3be90e58b"
+    },
+    {
+      "path": "assets/images/matcha-800.webp",
+      "bytes": 20692,
+      "sha256": "40095382e140a96ba51d13df2ddb6c0e2431d123579561409f759d9c0cba0cde"
+    },
+    {
+      "path": "assets/images/pour-1400.webp",
+      "bytes": 56288,
+      "sha256": "38650afcca140d2f847e225d263cfaf1334e3152eadaa947222430a95f540e03"
+    },
+    {
+      "path": "assets/images/pour-480.webp",
+      "bytes": 14766,
+      "sha256": "acb617907b1796386bad230d2514a1fc9b52695d12f86ea50412426921e392b3"
+    },
+    {
+      "path": "assets/images/pour-800.webp",
+      "bytes": 27280,
+      "sha256": "e7ce3a1b01de3aa047e3859b3b479e576247ce586084a699673684604e57055c"
+    },
+    {
+      "path": "assets/js/accessibility/motion.js",
+      "bytes": 106,
+      "sha256": "4de835cdd55514d357164a1b40c89a8d97dd549850f88d0a3d5ae502f63bb879"
+    },
+    {
+      "path": "assets/js/animations/index.js",
+      "bytes": 2820,
+      "sha256": "3f44040baeb0eb7702169d0a14d4fdfa8103cb82f01ee34971cce2a6f20f5328"
+    },
+    {
+      "path": "assets/js/app.js",
+      "bytes": 342,
+      "sha256": "52b206866e6aaa23eec99e16a077c13f62fe1cf6aa467ec780a68e70b0fd584e"
+    },
+    {
+      "path": "assets/js/data/drinks.js",
+      "bytes": 1020,
+      "sha256": "12020db848b8d1b389efbe69669d894b1f14e3b5d5b944ea1108a90a0e0df376"
+    },
+    {
+      "path": "assets/js/interactions/gallery.js",
+      "bytes": 1592,
+      "sha256": "45ac75f88c2abd9d399ac7cf67f5131e6fad31d2d121468f7a1efd418847c298"
+    },
+    {
+      "path": "assets/js/interactions/menu.js",
+      "bytes": 2485,
+      "sha256": "fb797524578acca26bcb490603fec50316f5e4c44c013d92edb07e0916dc9032"
+    },
+    {
+      "path": "assets/js/interactions/navigation.js",
+      "bytes": 1526,
+      "sha256": "a1fd9e1967acfb7d7f16150114340f1c8308abfdc70775675f20bcb98ab78540"
+    },
+    {
+      "path": "assets/vendor/GSAP-LICENSE.txt",
+      "bytes": 331,
+      "sha256": "2efcb0c270d41948200ae7e21af790307223eb8a160c6989c3d46d2b5c049aaf"
+    },
+    {
+      "path": "assets/vendor/ScrollTrigger.min.js",
+      "bytes": 44157,
+      "sha256": "308219390e5e3b84cda0c481e70caa9820883ae10bda44e6e9a149a81aac4b3f"
+    },
+    {
+      "path": "assets/vendor/gsap.min.js",
+      "bytes": 72435,
+      "sha256": "96c01b81f44a3290e2b4532f55e2c9534b2adc43273a19f3756b2cb41f0fd0b6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 21147,
+      "sha256": "6f7416e52d8a812374ee46ddbae7297179a95a6e4ecf6b891caaa82ece41cd19"
+    },
+    {
+      "path": "robots.txt",
+      "bytes": 24,
+      "sha256": "a02fa07867bb5868c5f726f6620178daf8e0d0bcb8f5c1e2693ba72f0aec1fbb"
+    }
+  ]
+}

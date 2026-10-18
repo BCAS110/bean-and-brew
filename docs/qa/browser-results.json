@@ -1,0 +1,74 @@
+{
+  "testedURL": "http://127.0.0.1:4173/bean-and-brew/",
+  "live": false,
+  "viewports": [
+    {
+      "width": 320,
+      "overflow": false,
+      "broken": [],
+      "motion": "reduced",
+      "links": [],
+      "errors": [],
+      "accessibility": [],
+      "navigation": "PASS"
+    },
+    {
+      "width": 390,
+      "overflow": false,
+      "broken": [],
+      "motion": "reduced",
+      "links": [],
+      "errors": [],
+      "accessibility": [],
+      "navigation": "PASS"
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "broken": [],
+      "motion": "reduced",
+      "links": [],
+      "errors": [],
+      "accessibility": [],
+      "navigation": "PASS"
+    },
+    {
+      "width": 1024,
+      "overflow": false,
+      "broken": [],
+      "motion": "reduced",
+      "links": [],
+      "errors": [],
+      "accessibility": [],
+      "navigation": "PASS"
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "broken": [],
+      "motion": "reduced",
+      "links": [],
+      "errors": [],
+      "accessibility": [],
+      "navigation": "PASS"
+    }
+  ],
+  "interactions": {
+    "menuClosed": true,
+    "filtered": true,
+    "reset": true,
+    "detail": true,
+    "wrap": true,
+    "dialogFocusReturned": true
+  },
+  "mobileMotion": {
+    "mode": "active",
+    "triggers": 4
+  },
+  "desktopMotion": {
+    "moved": true,
+    "triggers": 15,
+    "reducedMotionTriggers": 0
+  },
+  "status": "PASS"
+}

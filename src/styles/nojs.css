@@ -1,0 +1,2 @@
+@media(max-width:767px){.header-inner{flex-wrap:wrap}.header-inner nav{display:flex;position:static;box-shadow:none;order:5;flex-basis:100%;padding:8px 0;gap:0;flex-direction:row;flex-wrap:wrap;border:0}.header-inner nav a{font-size:14px;padding:8px 12px}.menu-toggle,.search-toggle{display:none}}
+[data-detail],#browse-menu,.gallery-item{cursor:default}.plus,#browse-menu{display:none}.drink-image,.gallery-item{pointer-events:none}
